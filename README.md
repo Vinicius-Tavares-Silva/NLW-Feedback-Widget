@@ -14,3 +14,9 @@
 - Nodemailer - Envio de emails
 - [Jest](https://jestjs.io/pt-BR/docs/getting-started) - Testes automatizados
 - [SWC](https://swc.rs/) - Compilador jest para TS
+
+### FrontEnd (Mobile)
+- React Native
+- Expo
+- React Native Bottom Sheet
+- [Expo GestureHandler](https://docs.expo.dev/versions/latest/sdk/gesture-handler/)
